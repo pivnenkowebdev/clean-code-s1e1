@@ -165,7 +165,7 @@ body {
 }
 
 /* Edit Task */
-.note--edit .input {
+.note .input {
   display: none;
 }
 
